@@ -135,7 +135,7 @@ Snapshot/Restore::
 === Upgrades
 
 Infra/Core::
-* Upgrade to Jackson 2.10.4 {es-pull}56188[#56188] (issue: {es-issue}56071[#56071])
+* Upgrade to Jackson 2.14.0 {es-pull}56188[#56188] (issue: {es-issue}56071[#56071])
 
 Infra/Packaging::
 * Upgrade bundled jdk to 14.0.1 {es-pull}57233[#57233]
