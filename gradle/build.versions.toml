@@ -1,6 +1,6 @@
 [versions]
 asm = "9.3"
-jackson = "2.13.2"
+jackson = "2.14.0"
 junit5 = "5.8.1"
 spock = "2.1-groovy-3.0"
 
@@ -13,7 +13,7 @@ asm-tree = { group = "org.ow2.asm", name="asm-tree", version.ref="asm" }
 bytebuddy = "net.bytebuddy:byte-buddy:1.12.10"
 checkstyle = "com.puppycrawl.tools:checkstyle:10.3"
 commons-codec = "commons-codec:commons-codec:1.11"
-commmons-io = "commons-io:commons-io:2.2"
+commmons-io = "commons-io:commons-io:2.7"
 docker-compose = "com.avast.gradle:gradle-docker-compose-plugin:0.14.13"
 forbiddenApis = "de.thetaphi:forbiddenapis:3.2"
 hamcrest = "org.hamcrest:hamcrest:2.1"

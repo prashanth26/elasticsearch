@@ -18,7 +18,7 @@ dependencies {
   javaRestTestImplementation "org.apache.logging.log4j:log4j-core:${log4jVersion}"
   javaRestTestImplementation("co.elastic.clients:elasticsearch-java:${elasticsearchVersion}")
   javaRestTestImplementation "org.elasticsearch.client:elasticsearch-rest-client:${elasticsearchVersion}"
-  javaRestTestImplementation 'com.fasterxml.jackson.core:jackson-databind:2.12.3'
+  javaRestTestImplementation 'com.fasterxml.jackson.core:jackson-databind:2.14.0'
   javaRestTestImplementation "org.elasticsearch.test:framework:${elasticsearchVersion}"
 }
 

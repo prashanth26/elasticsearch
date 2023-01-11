@@ -27,8 +27,8 @@ versions << [
   'azureCommon': '12.15.1',
   'azureCore': '1.27.0',
   'azureCoreHttpNetty': '1.11.9',
-  'azureJackson': '2.13.2',
-  'azureJacksonDatabind': '2.13.2.2',
+  'azureJackson': '2.14.0',
+  'azureJacksonDatabind': '2.14.0',
 
   'jakartaActivation': '1.2.1',
   'jakartaXMLBind': '2.3.2',
